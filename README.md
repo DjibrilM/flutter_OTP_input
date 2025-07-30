@@ -1,6 +1,4 @@
-# 🌀 Animated Flutter Carousel
-
-A beautifully animated carousel built with Flutter. Smooth transitions, scaling, and snapping behavior out of the box.
+# 🌀 Animated flutter OPT input
 
 ## 🚀 Getting Started
 
